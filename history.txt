@@ -1,0 +1,211 @@
+    1  pwd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  touch file{1...10}.txt
+    6  ls
+    7  touch file{1..10}.txt
+    8  ls
+    9  cd ..
+   10  pwd
+   11  cd g
+   12  cd g
+   13  cd gist\ pravallika/
+   14  pwd 
+   15  cd d:
+   16  pwd
+   17  cd c:
+   18  pwd
+   19  mkdir gist pravallika
+   20  cd Users/dell/Desktop/gist pravallika
+   21  ls
+   22  cd c:Users/dell/Desktop/gist pravallika
+   23  cd C:Users/dell/Desktop/gist pravallika
+   24  touch profile.txt
+   25  ls 
+   26  echo "Name pravallika"
+   27  echo "Name pravallika">>profile.txt
+   28  echo "rollnum 172U1A05A0">>profile.txt 
+   29  echo "Email pravallikan1999@gmail.com">>profile.txt
+   30  echo "Adress Nellore">>profile.txt
+   31  mkdir pravallika
+   32  mkdir pravallika1
+   33  touch profile.txt
+   34  pwd
+   35  cd pravallika1
+   36  touch profile.txt 
+   37  ls
+   38  vi profile.txt
+   39  cat profile.txt
+   40  vi profile.txt
+   41  cat profile.txt
+   42  touch sample.html
+   43  vi sample.html
+   44  pwd
+   45  git init
+   46  git clone ''
+   47  git clone'https://github.com/86813/gist.git'
+   48  git clone 'https://github.com/86813/gist.git'
+   49  ls
+   50  cd gist/
+   51  ls
+   52  vi README.md 
+   53  git config --global user.name '86813'
+   54  git config --global user.name '86813'
+   55  git config --global user.email 'pravallikan1999@gmail.com'
+   56  git init
+   57  git status -s
+   58  touch example.py
+   59  git status -s
+   60  git add .
+   61  git status -s
+   62  git commit -m 'write markdown statement'
+   63  git log
+   64  git add remote origin'
+   65  exit
+   66  d
+   67  git log
+   68  q
+   69  exit()
+   70  exit
+   71  clear
+   72  EXIT
+   73  git remote origin 'https://github.com/86813/gist.git'
+   74  git remote add origin ' https://github.com/86813/gist.git'
+   75  git push origin main
+   76  git push origin main
+   77  git push origin main
+   78  git push origin main
+   79  git commit -m 'some files'
+   80  git status -s
+   81  git add .
+   82  git status -s
+   83  git commit -m 'some files'
+   84  git log 
+   85  git remote add origin'https://github.com/86813/data-analysis.git'
+   86  git remote add origin 'https://github.com/86813/data-analysis.git'
+   87  git push origin main
+   88  git init
+   89  git status -s
+   90  git add .
+   91  git status -s
+   92  git init
+   93  git status -s
+   94  git add .
+   95  git status -s
+   96  git comit -m 'https://github.com/PravallikaNetrambaka/gist.git'
+   97  git commit -m 'https://github.com/PravallikaNetrambaka/gist.git'
+   98  git commit -m 'Day 3 files'
+   99  git remote add origin 'https://github.com/PravallikaNetrambaka/gist.git'
+  100  git push origin main
+  101  git push origin main
+  102  git init
+  103  git status -s
+  104  git add .
+  105  git status -s
+  106  git commit -m 'Day 4 files'
+  107  git remote origin 'https://github.com/PravallikaNetrambaka/gist.git'
+  108  git push origin main
+  109  git init 
+  110  ls
+  111  git init
+  112  git status -s
+  113  git add .
+  114  git status -s
+  115  git commit -m 'Day 4 files'
+  116  git add .
+  117  git status -s
+  118  git add .
+  119  git status -s
+  120  git commit -m 'Day4 files'
+  121  git remote origin 'https://github.com/PravallikaNetrambaka/gist.git'
+  122  git push origin main
+  123  git init
+  124  git status -s
+  125  git add .
+  126  git status -s
+  127  git commit -m ' day 5 files'
+  128  git remote origin 'https://github.com/PravallikaNetrambaka/gist.git'
+  129  git push origin main
+  130  PWD
+  131  LS
+  132  TOUCH FRIST.TXT
+  133  frist.txt
+  134  ls
+  135  mkdir gist
+  136  ls
+  137  cd gist
+  138  cd
+  139  pwd
+  140  cd ..
+  141  pwd
+  142  cd e:
+  143  /e
+  144  cd d:
+  145  /d
+  146  cd c:
+  147  cd 
+  148  cd 
+  149  cd C:\Users\dell\Desktop\HARITHA(480)
+  150  cd C:/Users/dell/Desktop/HARITHA(480)
+  151  cd C:/Users/dell/Desktop/HARITHA(480)/
+  152  cd C:\Users\dell\Desktop\HARITHA(480)
+  153  echo "hello"
+  154  echo {1..100}
+  155  touch file{1..100}.txt
+  156  touch file{1..100}.py
+  157  touch file{1..100}.cpp
+  158  pwd
+  159  ls
+  160  touch first.txt
+  161  first.txt
+  162  mkdir gist
+  163  cd
+  164  cd first
+  165  cd e:
+  166  /e
+  167  cd d:
+  168  /d
+  169  cd c:
+  170  C:\Users\dell\Desktop\haritha172u1a0480
+  171  cd C:\Users\dell\Desktop\haritha172u1a0480
+  172  C:/Users/dell/Desktop/haritha172u1a0480
+  173  echo "hello"
+  174  echo 1..100
+  175  echo {1..100}
+  176  touch file{1..100}.txt
+  177  pwd
+  178  ls
+  179  pwd
+  180  ls
+  181  rmdir gist
+  182  ls
+  183  rm demo.txt
+  184  ls
+  185  rm file{1..10}.txt
+  186  ls
+  187  rm file{50..100}.txt
+  188  ls
+  189  rm clanguage
+  190  ls
+  191  nano myfile.txt
+  192  nano myfile.txt
+  193  nano myfile.txt
+  194  cat myfile.txt
+  195  nano myfile.txt
+  196  cat myfile.txt
+  197  echo "hello">>myfile.txt
+  198  echo "hello">>myfile2.txt
+  199  cat myfile2.txt
+  200  echo {1..1000}>>myfile3.txt
+  201  cat myfile3.txt
+  202  mv myfile3.txt myfile2.txt
+  203  cat myfile2.txt
+  204  ls
+  205  cp myfile2.txt myfile.txt
+  206  cat myfile.txt
+  207  is
+  208  ls
+  209  histroy
+  210  history
+  211  history>>history.txt
